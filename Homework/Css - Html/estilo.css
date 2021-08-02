@@ -1,0 +1,26 @@
+div {
+	content: center;
+}
+
+.divClass h1 {
+	display: inline;
+	color: salmon;
+}
+
+img {
+	width: 400px;
+}
+
+#thirdDiv {
+	background: skyblue;
+	height: 600px;
+	width: 500px;
+	padding: 50px;
+	border: 15px solid salmon;
+}
+
+#spanId {
+	font-size: 18px;
+	margin: 50px;
+}
+
