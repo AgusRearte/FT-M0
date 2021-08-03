@@ -1,0 +1,74 @@
+*{
+	font-family: Poppins;
+	font-size: 20px;
+
+}
+
+body {
+	background: #A3E4D7;
+}
+
+div {
+	font-weight: 900;
+}
+nav {
+	padding: 5px;
+	background:#85C1E9;
+	height: 60px;
+	margin-bottom: 15px;
+	border: 2.5px solid white;
+	color: white;
+}
+
+h1 {
+	padding-left: 15px;
+	padding-bottom: 150px;
+	font-size: 20px;
+}
+
+.img {
+	width: 300px;
+	height: 300px;
+	object-fit: contain;
+}
+
+h2 {
+	font-size: 35px;
+}
+
+.descr {
+	display: flex;
+	flex-direction: row;
+}
+
+.descr-1{
+	padding-left: 5px;
+	font-size: 25px;
+	font-weight: 900;
+	background: #EBF5FB;
+	border: 2px solid #A9CCE3;
+}
+
+
+.skills-ul {
+	display: flex;
+	flex-direction: row;
+	padding-top: 20px;
+	height: 55px;
+	width: 100%;
+	
+	margin-right: 15px;
+}
+
+.skills-li {
+	margin: 10px;
+	justify-content: center;
+}
+
+
+
+
+
+
+
+
